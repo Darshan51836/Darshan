@@ -3,9 +3,9 @@
 <h2>👨‍💻 CERTIFICATION:</h2>
 
 - <b> Certified Ethical Hacker(CEH) V13 AI(</b>
-  - [EC-COUNCIL](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EC-COUNCIL]()
 - <b> Certified Hacking Forensic Investigator(CHFI)</b>
-  - [EC-COUNCIL](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [EC-COUNCIL]()
 -  <h3>👨‍💻 COURCES </h3>
   -  Google Cybersecurity
   - [ AWS Cloud Technology]()
