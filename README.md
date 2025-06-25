@@ -3,15 +3,15 @@
 <h2>👨‍💻 CERTIFICATION:</h2>
 
 - <b> Certified Ethical Hacker(CEH) V13 AI(</b>
-  - [EC-COUNCIL]()
+  - [EC-COUNCIL]
 - <b> Certified Hacking Forensic Investigator(CHFI)</b>
-  - [EC-COUNCIL]()
+  - [EC-COUNCIL]
 -  <h3>👨‍💻 COURCES </h3>
   -  Google Cybersecurity
-  - [ AWS Cloud Technology]()
-  - [ Big Data - 301]()
-  - [ Learn Database Design with MySQL]()
-  - [ Selenium WebDriver with Python]()
+  -  AWS Cloud Technology
+  -  Big Data - 301
+  -  Learn Database Design with MySQL
+  -  Selenium WebDriver with Python
   
 <h2>📺 PROJECTS </h2>
 
