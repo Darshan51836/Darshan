@@ -14,9 +14,8 @@
   - [ Selenium WebDriver with Python]()
   
 <h2>📺 PROJECTS </h2>
-- <b> [Inventery-Management-System](https://github.com/Darshan51836/Inventory-Management-System) </b>
-  
-  - [EC-COUNCIL](https://github.com/joshmadakor1/Algorithms-Practice)
+
+-    [Inventery-Management-System](https://github.com/joshmadakor1/Algorithms-Practice)
   
 
 
