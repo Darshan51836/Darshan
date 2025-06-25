@@ -17,7 +17,7 @@
 
 -    [Instant-Home-Service-Hub](https://github.com/Darshan51836/Instant-Home-Service-Hub)
 -    [Stegano-project-CGV](https://github.com/Darshan51836/Steganography-project-CGV-main-project-CGV)
--    [Inventery-Management-System](https://github.com/joshmadakor1/Algorithms-Practice)
+-    [Inventery-Management-System](https://github.com/Darshan51836/Inventory-Management-System)
 
 
 <h2> 🤳 Connect with me:</h2>
