@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darshan B S <br/><a href="https://github.com/Darshan51836/Darshan">Programmer</a>, <a href="https://www.linkedin.com/in/darshan572107/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Darshan B S <br/><a href="https://github.com/Darshan51836/Darshan">Programmer</a>, <a href="https://www.linkedin.com/in/darshan572107/">Cybersecurity </a></h1>
 
 <h2>👨‍💻 CERTIFICATION:</h2>
 
